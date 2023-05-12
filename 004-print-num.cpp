@@ -1,0 +1,13 @@
+//
+// Created by lance on 23-5-12.
+//
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int a;
+    cin >> a;
+    cout << (char)a << endl;
+    return 0;
+}
