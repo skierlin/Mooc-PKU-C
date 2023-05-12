@@ -3,5 +3,4 @@ project(Mooc_PKU_C)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Mooc_PKU_C
-        001-print-second-number.cpp)
+add_executable(Mooc_PKU_C 008-print-float.cpp)
